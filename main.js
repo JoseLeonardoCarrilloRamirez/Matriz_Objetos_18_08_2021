@@ -1,8 +1,5 @@
 
 
-
-
-
 { let obj = {
      suma : function(){
          return this.num1 + this.num2;
@@ -17,16 +14,7 @@
 
 }
 
-
-
-
-
-
-
-
-
-
- let D = 5;
+let D = 5;
  let matriz = new Array(D).fill(null);
 
  for(var i=0; i<matriz.length; i++) {
